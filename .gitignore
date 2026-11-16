@@ -1,0 +1,29 @@
+# Large datasets and database files
+/backend/data/Reviews.csv
+/database.sqlite
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Node modules
+node_modules/
+# Python virtual environments
+**/.venv/
+**/venv/
+__pycache__/
+*.pyc
+
+# Node dependencies
+**/node_modules/
+**/.vite/
+
+# Environment variables
+.env
+.env.*
+
+# Large datasets and databases
+/backend/data/Reviews.csv
+/database.sqlite

@@ -1,0 +1,4 @@
+Algorithm,Accuracy
+Naive Bayes,78.7
+Logistic Regression,81.55
+SVM,85.35

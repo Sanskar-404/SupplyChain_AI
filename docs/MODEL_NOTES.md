@@ -1,0 +1,2 @@
+# ML model notes
+Included: Random Forest, SVM and Gradient Boosting classifiers; Random Forest regression for illustrative remaining-life estimation; Isolation Forest for anomaly screening. Demo models are trained on generated synthetic data. Do not report their metrics as real-world performance. For real data, split by shipment/batch/time to avoid leakage; report precision, recall, F1, ROC-AUC, confusion matrix, MAE and RMSE as appropriate. Shelf-life regression requires observed time-to-failure or remaining-life labels.

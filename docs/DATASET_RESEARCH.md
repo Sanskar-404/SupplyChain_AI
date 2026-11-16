@@ -1,0 +1,2 @@
+# Dataset research plan
+Verify original repository pages before using any data. Record DOI/version, access date, license, format, sample count, collection protocol and label definition. Research leads: Mendeley Data (https://data.mendeley.com/), Zenodo (https://zenodo.org/), UCI (https://archive.ics.uci.edu/), Kaggle (https://www.kaggle.com/datasets). Keep datasets in separate pipelines if units, commodities or target definitions differ.
